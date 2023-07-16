@@ -1,7 +1,7 @@
 # Udacity: Linear Algebra Refresher Course
 - [myvector.py](/myvector.py)
 - [line.py](/line.py)
-- [plane.pu](/plane.py)
+- [plane.py](/plane.py)
 - [linsys.py](/linsys.py)
 - [Coding Vectors](/vector_coding.ipynb)
 - [Mathematical Notation](/guide_to_mathematical_notation.ipynb)
