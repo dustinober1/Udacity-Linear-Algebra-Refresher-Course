@@ -1,1 +1,10 @@
-# Udacity-Linear-Algebra-Refresher-Course
+# Udacity: Linear Algebra Refresher Course
+- [myvector.py](/myvector.py)
+- [line.py](/line.py)
+- [plane.pu](/plane.py)
+- [linsys.py](/linsys.py)
+- [Coding Vectors](/vector_coding.ipynb)
+- [Mathematical Notation](/guide_to_mathematical_notation.ipynb)
+- [Coding Matrices](/matrices_in_python.ipynb)
+- [Coding Matrix Addition](/matrix_addition.ipynb)
+- [Coding Matrix Multiplication](/Coding%20Matrix%20Multiplication.ipynb)
