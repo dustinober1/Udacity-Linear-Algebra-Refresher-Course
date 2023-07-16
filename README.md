@@ -8,3 +8,6 @@
 - [Coding Matrices](/matrices_in_python.ipynb)
 - [Coding Matrix Addition](/matrix_addition.ipynb)
 - [Coding Matrix Multiplication](/Coding%20Matrix%20Multiplication.ipynb)
+- [Coding the Transpose](/Coding%20the%20Transpose.ipynb)
+- [Coding Identity Matrix](/Coding%20Identity%20Matrix.ipynb)
+- [Coding Matrix Inverse](/Coding%20Identity%20Matrix.ipynb)
